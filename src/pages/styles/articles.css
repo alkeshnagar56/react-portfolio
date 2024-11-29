@@ -49,4 +49,7 @@
 	.articles-subtitle {
 		width: 100% !important;
 	}
+	.articles-article{
+		padding-left: 4px;
+	}
 }

@@ -79,6 +79,7 @@
 	}
 
 	.about-subtitle {
+		width: 100% !important;
 		padding-top: 20px !important;
 	}
 
