@@ -189,7 +189,7 @@ const Homepage = () => {
 							</div>
 
 							<div className="homepage-works">
-								<Works />
+								{/* <Works /> */}
 							</div>
 						</div>
 
